@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.addtoany.com	TRUE	/	FALSE	1999999999	__cfduid	d67b93b913d49cb1ba65db34cd0cc9e271566566267
+www.ds.com.tn	TRUE	/	FALSE	1999999999	wpSGCacheBypass	0
+
